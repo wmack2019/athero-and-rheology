@@ -1,0 +1,333 @@
+id,visitnum,subjctid,date_f04,initials_f04,birthdate,age,gender,marital,race,race_other,employ,employ_other,occupation,worktype,workhours,workyears,occupation2,worktype2,workyears2,employ_sp,employ_other_sp,occupation_sp,worktype_sp,workhours_sp,workyears_sp,occupation2_sp,worktype2_sp,workyears2_sp,income,education,degrees,education_other,education_sp,degrees_sp,education_other_sp,f04
+80001,SV,80001CERM,2014-09-02,LZ,1943-11-26,70,2,4,3,,1,,Actress,Acting,6,26,,,,,,,,,,,,,6,5,,,,,,2
+80002,SV,80002HUNH,2014-09-03,LZ,1947-06-16,67,2,5,1,,2,,,,,,DESIGNER,DECORATIVE PAINTER,18,,,,,,,,,,4,5,,,,,,2
+80003,SV,80003QUAL,2014-09-03,LZ,1949-04-04,65,2,4,4,,2,,,,,,DENTAL HYGIENIST,CLEANING TEETH,29,,,,,,,,,,11,6,,,,,,2
+80004,SV,80004SMIS,2014-10-03,LZ,1938-09-02,76,2,5,1,,2,,,,,,Comm. Artist,Art work on drawing board,43,5,Deceased,,,,,Machinist,Aro space,50,5,5,,,4,,,2
+80005,SV,80005BALE,2014-09-29,LZ,1925-08-25,89,2,1,1,,2,,,,,,License Clinical Social Worker,Therapist,35,,,,,,,,,,12,7,MSW,,,,,2
+80006,SV,80006PANA,2014-09-08,LZ,1945-06-04,69,1,2,2,,2,,,,,,ATTORNEY,ATTORNEY,32,2,,,,,,RESERVATION AGENT,AIRLINE,32,11,7,JD,,5,,,2
+80007,SV,80007POTJ,2014-09-11,LZ,1951-02-28,63,1,2,2,,1,,LAWYER,EMPLOYMENT LAW,40,34,,,,1,,CONSULTANT,CONSULT,40,20,,,,11,7,BA & JD,,5,,,2
+80008,SV,80008POTB,2014-09-11,LZ,1952-09-23,62,2,2,2,,1,,CONSULTANT,ADMINISTRATIVE,40,20,,,,1,,LAWYER,EMPLOYMENT LAWYER,40,34,,,,11,5,,,7,BA & JD,,2
+80009,SV,80009MCPK,2014-09-09,LZ,1955-05-10,59,1,5,2,,4,,,,,,SALES MANAGER,TELECOMUNICATION,34,,,,,,,,,,11,6,,,5,,,2
+80010,SV,80010HAUI,2014-09-10,LZ,1941-02-18,73,2,4,1,,2,,,,,,Clinical Psychologist,Psychologist,16,,,,,,,,,,9,7,Psy. D.,,,,,2
+80011,SV,80011AMAA,2014-09-15,LZ,1942-03-15,72,1,2,2,,1,,HEALTH EDUCATOR,Community Health Education,40,25,,,,1,,RN,NURSING,40,32,,,,11,7,MPH,,5,,,2
+80012,SV,80012JUVC,2014-10-03,LZ,1947-07-23,67,2,2,1,,1,,System Programer,Data Base Admin,40,40,,,,2,,,,,,Housing Inspector,Low Income Housing Inspection,40,12,5,,,4,,,2
+80013,SV,80013ADAC,2014-09-25,LZ,1932-05-26,82,2,2,1,,2,,,,,,Education Aide,Elementary  Schoo Library & classroom assistant,30,2,,,,,,Customer Service,Clerical,40,6,6,,,6,,,2
+80014,SV,80014SANS,2014-09-11,LZ,1947-05-28,67,2,5,4,,2,,,,,,Teacher,Elementary Classroom Teacher,40,,,,,,,,,,11,6,,,,,,2
+80016,SV,80016PORB,2014-09-15,LZ,1950-09-06,64,2,5,2,,2,,,,,,ADMINISTRATOR,CIVIL SERVANT,27,,,,,,,,,,7,7,"MBA, BS",,,,,2
+80017,SV,80017SZAL,2014-09-30,LW,1939-09-12,75,1,2,1,,2,,,,,,Rental Mgnt,"Maintenance, repair",25,2,,,,,,-99,-99,-99,4,2,,,2,,,2
+80018,SV,80018ADAD,2014-09-19,LZ,1950-09-15,64,1,2,4,,2,,,,,,ENGINEER,SOFTWARE ENGINEER,23,1,,TEACHER,TEACHER,20,30,,,,3,7,"MSME, MSCS",,6,,,2
+80019,SV,80019STEL,2014-09-19,LZ,1947-02-06,67,2,2,1,,1,,CONTROL SYSTEMS DESIGNER,"INSTRUMENT CONTROLS IN LARGE FACILITIES (MINES, REFINERIES)",36,45,,,,1,,DESIGN AND MANAGEMENT,THEME PARKS DESIGN & MANAGEMENT,40,20,,,,11,5,,,5,,,2
+80020,SV,80020WEBJ,2014-09-18,LZ,1935-10-18,78,2,4,1,,2,,,,,,DEPARTMENT SUPPORT STAFF,UNIVERSITY STAFF DEPARTMENT SUPPORT,19,,,,,,,,,,4,7,NO DEGREE,,,,,2
+80021,SV,80021CAND,2014-09-18,LZ,1953-03-30,61,2,2,4,,2,,,,,,SOFTWARE ENGINEER,COMPUTER PROGRAMMING,30,2,,,,,,SOFTWARE ENGINEER,COMPUTER PROGRAMMING,34,4,6,,,6,,,2
+80022,SV,80022GOLR,2014-09-26,LZ,1939-07-28,75,2,2,1,,1,,PARAPROFESSIONAL COUNSELOR,COUNSELING,17.5,28,,,,2,,,,,,SCIENTIST,RADAR ASTRONOMER,40,11,6,,,7,PhD,,2
+80023,SV,80023SZAC,2014-09-30,LZ,1943-02-05,71,2,2,1,,2,,,,,,Property Manager,Property Management,36,2,,,,,,Test Technician,Aerospace Industry,17.5,12,5,,,5,,,2
+80024,SV,80024GOOE,2014-09-18,LZ,1924-04-02,90,2,4,1,,2,,,,,,CLERK TYPIST,HELP IN ADMINISTRATIVE AIDS,32,2,,,,,,CEO,OWNER-SHEET METAL PRODUCTS,58,12,5,,,4,,,2
+80025,SV,80025INAJ,2014-09-29,LZ,1954-10-11,59,2,1,4,,1,,Arborist,Arboricultural Consultation,50,25,,,,,,,,,,,,,3,6,,,,,,2
+80026,SV,80026RAKB,2014-09-23,LZ,1955-10-25,58,1,1,1,,2,,,,,,MANAGER-REVENUE REVIEW,TAX,34.75,,,,,,,,,,10,6,,,,,,2
+80027,SV,80027DOWF,2014-09-23,LZ,1939-10-07,74,2,2,1,,2,,,,,,GOVERMENT CLERICAL,CLERICAL,35,2,,,,,,AIRFORCE,MILITARY,20,7,6,,,7,MASTER-SCIENCE SYSTEMS MGMT,,2
+80028,SV,80028CAME,2014-10-22,LZ,1942-09-09,72,2,2,3,,2,,,,,,Accounting/Finance,"Billing, Supervising, Managing",40,2,,,,,,Telecommunication Management,Telecommunication Management,40,6,5,,,5,,,2
+80029,SV,80029RUIM,2014-10-01,LW,1931-09-09,83,2,5,3,,2,,,,,,Postal Service,Mail Carrier,22,,,,,,,,,,3,3,,,,,,2
+80030,SV,80030HALS,2014-09-25,LZ,1951-12-18,62,2,5,1,,4,,,,,,EDUCATION,SOCIAL SERVICES-SCHOOLS,20,,,,,,,,,,2,7,MASTERS-SPECIAL EDU & ELEMENTARY EDU,,,,,2
+80031,SV,80031SHAM,2014-10-02,LZ,1949-05-25,65,2,2,1,,1,,College Instructor,Teaching,40,15,,,,2,,,,,,Masonry Contractor,Construction,30,8,7,MA,,6,,,2
+80032,SV,80032DEST,2014-09-18,LZ,1943-04-18,71,1,2,1,,2,,,,,,FIREFIGHTER,FIREFIGHTER,34,2,,,,,,MORTGAGE SUPERVISORY,MORTGAGE SUPERVISORY,35,11,5,,,5,,,2
+80033,SV,80033TIVS,2014-10-02,LZ,1942-07-01,72,1,1,1,,2,,,,,,Telecom Engineer,Radio Systems Design,20,,,,,,,,,,12,6,,,,,,2
+80034,SV,80034SHOS,2014-10-10,LZ,1946-08-15,68,2,5,1,,2,,,,,,Teacher,Teaching,31,,,,,,,,,,6,7,BA. MA,,,,,2
+80035,SV,80035DELV,2014-10-10,LZ,1940-02-12,74,2,4,1,,2,,,,,,Property Management,Property Management,30,,,,,,,,,,5,5,,,,,,2
+80036,SV,80036WALJ,2014-10-02,LZ,1941-09-30,73,2,2,1,,2,,,,,,Office Mgr,Secretary,40,2,,,,,,controls System Engr,Technical Server,50,6,5,,,5,,,2
+80037,SV,80037WALJ,2014-10-02,LZ,1941-10-25,72,1,2,1,,2,,,,,,Controlls Engineer,Instrumentation; controlls,50,2,,,,,,Office Manager,Administration,40,6,5,,,5,,,2
+80038,SV,80038HEYP,2014-10-06,LZ,1952-01-30,62,2,4,3,,2,,,,,,Human Resources Mgr,"Disciplinary, grievance hearings, training safety",30,,,,,,,,,,9,6,,,,,,2
+80039,SV,80039LACA,2014-10-15,LZ,1941-03-10,73,2,4,1,,2,,,,,,Secretary,Office Mgr,50,,,,,,,,,,5,5,,,,,,2
+80040,SV,80040FRES,2014-10-03,LZ,1935-12-31,78,2,4,1,,2,,,,,,Banking,Banking,25,,,,,,,,,,4,3,,,,,,2
+80041,SV,80041BILS,2014-10-10,LZ,1944-07-16,70,2,4,1,,1,,Personal Asst,"Driver, errands",20,15,,,,,,,,,,,,,4,5,,,,,,2
+80042,SV,80042JACL,2014-10-01,LZ,1951-09-08,63,2,2,1,,1,,Executive Assistant,Office Work,55,24,,,,1,,Toyota Dealership Manager,Oversees used car department,55,16,,,,11,6,,,5,,,2
+80043,SV,80043STES,2014-10-07,LZ,1938-06-20,76,2,2,1,,1,,Realtor,Real Estate Sales,20,20,,,,1,,President,Building Mgmt & maintenance,40,45,,,,12,6,,,5,,,2
+80045,SV,80045BERD,2014-10-09,LZ,1941-11-04,72,2,2,1,,2,,,,,,Social Working,Working with abused & negleted children,20,2,,,,,,Aerospace,Contract Administrator,30,11,6,,,3,,,2
+80046,SV,80046HARC,2014-10-08,LZ,1949-05-18,65,1,2,2,,2,,,,,,Firefighter,Firefighter,30,2,,,,,,Loan Processor,Loans,20,11,5,,,5,,,2
+80047,SV,80047LODC,2014-10-09,LZ,1937-02-02,77,2,5,1,,2,,,,,,Executive Assistante,Secretary/office,40,,,,,,,,,,5,5,,,,,,2
+80048,SV,80048ROCA,2014-10-15,LZ,1947-03-28,67,2,2,1,,1,,Special Ed Teacher Asst,Assist in class,30,20,,,,1,,Auto Mechanic,Repair Corvettes,30,14,,,,9,6,,,5,,,2
+80049,SV,80049ROCP,2014-10-15,LZ,1944-05-18,70,1,2,1,,1,,AUTO MECHANIC,RESTORE/REPAIR CARS,30,14,,,,1,,TEACHER'S ASSISTANT,ASSIST TEACHERS,30,20,,,,9,5,,,6,,,2
+80051,SV,80051ELLM,2014-10-16,LZ,1938-01-10,76,2,2,2,,2,,,,,,Clerical Admin,Clerical Admin,32,2,,,,,,Law Enforcement,Public Safety,35,6,5,,,6,,,2
+80052,SV,80052WOOK,2014-11-25,EB,1955-05-08,59,2,2,4,,1,,Teacher,Teach,37.5,38,,,,1,,computer analyst,computer analyst,45,20,,,,11,7,Masters,,6,,,2
+80053,SV,80053MOUB,2015-01-16,LW,1937-03-19,77,2,5,1,,2,,,,,,Homemaker,Manages her household,-99,,,,,,,,,,12,5,,,,,,2
+80054,SV,80054FOWJ,2014-11-07,LW,1934-09-22,80,1,2,1,,1,,Self-employed Manager,Clerical -Swimming pool service,10,30,,,,2,,,,,,Store sales,Stocking/sales,15,6,5,,,3,,,2
+80055,SV,80055DOSL,2014-12-03,EB,1952-01-11,62,2,2,4,,2,,,,,,Teacher,K-5 Students,35,1,,Info Tech,Computers,40,20,,,,11,7,"BA, Teacher Credential",,6,,,2
+80056,SV,80056LEWR,2014-12-10,LW,1953-11-15,61,2,2,1,,1,,Flight Attendant,Work onboard flights,13,39,,,,1,,Teacher,Teach middle school,50,40,,,,11,7,"MA, Education",,7,"MA , Education",,2
+80057,SV,80057BATL,2014-12-11,LW,1940-02-19,74,2,4,1,,1,,Property Management,Manager at apt. building,40,15,,,,,,,,,,,,,3,5,,,,,,2
+80058,SV,80058REMP,2014-11-11,LW,1943-07-07,71,2,1,1,,2,,,,,,RN,Home Health Private Duty,49,,,,,,,,,,3,5,,,,,,2
+80059,SV,80059GONC,2014-11-07,LW,1944-03-12,70,2,4,6,Filipino-American Caucasian,2,,,,,,"Musician, Educator",Teaching,32,1,,Pastor,Counseling,40,20,,,,6,7,BA,,5,,,2
+80060,SV,80060RYDE,2014-11-07,LW,1930-01-12,84,2,1,1,,2,,,,,,Teacher,Educator,34,,,,,,,,,,6,7,"MBA, BS",,,,,2
+80061,SV,80061GONN,2014-11-12,LW,1943-12-18,70,2,2,3,,2,,,,,,Real Estate,Sales,20,2,,,,,,Optician,Eyeglasses,25,5,7,Master,,6,,,2
+80062,SV,80062HARF,2014-11-06,LW,1946-01-27,68,1,4,1,,1,,Engineer Aerospace,Test lab,40,20,,,,,,,,,,,,,10,6,,,,,,2
+80063,SV,80063GUEB,2014-12-15,EB,1928-11-25,86,2,4,1,,1,,General Office,"Phones, greeting, mailings",5,-99,,,,,,,,,,,,,3,6,,,,,,2
+80064,SV,80064REND,2014-11-18,LW,1954-04-03,60,2,5,3,,1,,Utilization Mgt Coordinator,Computer Data Entry,40,12,,,,,,,,,,,,,4,4,,,,,,2
+80065,SV,80065SIEM,2014-12-03,LW,1932-02-07,82,2,5,1,,2,,,,,,Architect,Design,56,5,Deceased,,,,,Engineer,Chemical and Plastics,20,11,6,,,6,,,2
+80066,SV,80066GUEB,2014-11-19,OM,1960-05-10,54,2,1,1,,1,,Animal Care Personal Assistant,Take care of dogs and cats,30,7,,,,,,,,,,,,,3,5,,,,,,2
+80068,SV,80068CASR,2014-11-21,EB,1952-03-06,62,2,4,3,,2,,,,,,Dental Assistant,Dental Office,40,,,,,,,,,,6,5,,,,,,2
+80069,SV,80069DELM,2014-11-21,JS,1955-01-17,59,2,4,1,,4,,,,,,Receptionist/Personal Assistant,"Phones, paper work",10,,,,,,,,,,2,5,,,,,,2
+80152,SV,80152SINM,2014-12-05,JS,1948-03-31,66,2,2,1,,1,,Teacher,Education,35,30,,,,2,,,,,,Chemical sales,Sales,40,11,7,"Teaching credential, Master",,6,,,2
+80153,SV,80153VENV,2014-11-24,EB,1954-09-09,60,2,4,4,,1,,Nanny,Toddler Care,8,16,,,,,,,,,,,,,2,5,,,,,,2
+80158,SV,80158MARL,2014-12-15,EB,1947-08-19,67,2,4,3,,2,,,,,,Instructional Aide,Teaching,24,2,,,,,,Construction,Construction,30,1,5,,,4,,,2
+80164,SV,80164FINS,2014-12-02,EB,1935-06-03,79,1,2,1,,2,,,,,,Insurance Claims Management,Adjustment of property and liability claims,43,2,,,,,,Sales representative,Field sales of fabric and furniture,30,7,6,,,5,,,2
+80165,SV,80165SHEG,2015-01-23,LW,1936-04-13,78,1,5,1,,2,,,,,,ADMINISTRATOR,"Records keeping, counseling services-state prison for men",30,5,Deceased,,,,,Administrator,Administrator for benefits,30,5,6,,,5,,,2
+80169,SV,80169AGCR,2015-01-09,LW,1929-10-13,86,2,1,6,Filipino,2,,,,,,Clerical,Clerical,15,,,,,,,,,,2,7,MS,,,,,2
+80172,SV,80172MAR,2015-01-06,RV,1943-09-10,71,1,2,4,,2,,,,,,Police Officer,Law enforcement,33,2,,,,,,Secretary,Administration,22,2,7,MA,,6,,,2
+80176,SV,80176BABR,2014-12-08,LW,1959-12-25,55,1,2,1,,1,,Coach and Fitness Professional,Consulting and Hands-On with Athletes,35,35,,,,1,,Educator,Teach Health Consulting,45,45,,,,11,5,,,7,PhD,,2
+80177,SV,80177ALDE,2015-03-06,EB,1948-03-18,67,2,1,3,,1,,Nurse Practitioner,Clinic work-outpatient,42,40.5,,,,,,,,,,,,,11,5,,,,,,2
+80179,SV,80179PETJ,2014-12-08,EB,1948-10-07,66,2,2,1,,1,,Educator,Teach HS-Health Consultant,43,45,,,,1,,Coach  and Fitness Professional,Consulting and Hand-On with athletes,35,35,,,,11,7,PhD,,5,,,2
+80180,SV,80180WILJ,2015-01-12,EB,1940-12-30,74,2,1,1,,2,,,,,,Phycho Therapist Supervisor,Mental Health,40,,,,,,,,,,7,7,"PhD, MSW",,,,,2
+80181,SV,80181HONM,2015-01-06,EB,1945-01-01,70,2,2,4,,2,,,,,,Secretary,Administration,22,2,,,,,,Police Officer,Law Enforcement,33,2,6,,,7,MA,,2
+80182,SV,80182MORK,2015-01-09,LW,1949-07-30,65,1,2,1,,2,,,,,,Farmer,Farming,20,1,,Teacher,Pre-School Teacher,20,1,,,,5,7,"Pharm-D, MBA",,6,,,2
+80184,SV,80184FUJM,2015-02-13,JL,1937-03-22,77,2,4,4,,2,,,,,,Office Manager,"Payroll, Trilingual Language",27,,,,,,,,,,2,4,,,,,,2
+80185,SV,80185BITA,2015-01-27,LW,1949-01-12,66,2,4,1,,2,,,,,,Lawyer,Research,31,5,Unknown,,,,,Teacher,Teaching,-99,11,7,JD,,7,MA,,2
+80186,SV,80186DIEC,2015-03-06,RV,1955-02-11,60,2,2,1,,1,,University Administrator,Oversee Professional Development,40,25,,,,1,,Food Service Director,Management,50,25,,,,11,7,Master of Education,,6,,,2
+80187,SV,80187DUNH,2015-03-05,RV,1955-07-02,59,2,1,1,,1,,Administration,Assistant to Athletic Director,45,41.5,,,,,,,,,,,,,11,6,,,,,,2
+80188,SV,80188ERIE,2015-02-06,EB,1960-05-24,54,2,2,1,,1,,Educator,Teaching and Administrative,39,21,,,,1,,Grocery,Grocery,35,30,,,,9,7,PhD,,6,,,2
+80189,SV,80189FAWJ,2015-02-27,EB,1945-01-07,70,1,2,1,,1,,Professor,"Teach, Marine Policy Research",40,28,,,,1,,"Group, Marriage and Family Therapist",Psychotherapy,40,30,,,,11,7,"M.Pl, PhD",,7,MA,,2
+80190,SV,80190GREL,2015-03-09,RV,1945-07-14,69,1,2,1,,1,,English Professor,Teach and Research,60,40,,,,1,,Publisher and Editor,"Books,  Journals",60,30,,,,11,7,PhD,,7,MA,,2
+80192,SV,80192FITF,2015-03-13,JS,1958-08-13,56,2,2,1,,1,,Student Services Coordinator,"Record review, student advisement, curriculum",38,4,,,,5,Self-employed,,,,,"Documentary film producer, Writer, Director",60,25,10,5,,,5,,,2
+80193,SV,80193ROBL,2015-06-26,EB,1957-04-05,58,2,2,4,,1,,Duplicating Operator,Duplicate/copies,25,6,,,,1,,Sales,Irrigation sales,40,36,,,,8,5,,,8,,AA degree,2
+80194,SV,80194HARB,2015-02-26,LW,1960-08-26,54,1,4,1,,1,,Facilities Manager,manage facilities,38,10,,,,,,,,,,,,,5,5,,,,,,2
+80196,SV,80196HASA,2015-03-18,JS,1953-03-24,62,2,2,2,,1,,Education,Teaching,40,40,,,,5,Self-employed,,,,,Sales,10,30,11,7,PhD,,5,,,2
+80197,SV,80197CABP,2015-03-11,RV,1952-09-12,62,2,1,1,,1,,Project Mgr. Construction,Manage construction projects,40,20,,,,,,,,,,,,,11,7,Masters,,,,,2
+80206,SV,80206PERM,2015-03-17,RV,1958-01-16,57,2,4,3,,1,,Program Manager,Administer Education Course,50,3,,,,,,,,,,,,,7,6,,,,,,2
+80207,SV,80207COUS,2015-03-19,EB,1952-03-30,62,2,2,1,,1,,Dentist,Dentistry,30,22,,,,1,,Dentist/Professor,Dentistry and Faculty,48,41,,,,11,7,D.D.S.  M.S. on Ed,,7,D.D.S.    MBA,,2
+80208,SV,80208HSIC,2015-03-23,RV,1957-12-16,57,2,2,4,,1,,Professor,Research,40,22,,,,1,,Professor,Research,40,25,,,,11,7,"MA, PhD, JD",,7,"MD, PhD",,2
+80209,SV,80209CLEM,2015-03-23,EB,1947-05-09,67,2,3,1,,1,,Residency Administrator,Admin,45,22,,,,2,,,,,,Respiratory Therapist,Treated people with breathing problems,-99,9,5,,,8,,RT,2
+80210,SV,80210BAKL,2015-03-27,JL,1955-10-25,59,2,4,1,,1,,University Professor of Psychology,Teach and Research,50,31,,,,,,,,,,,,,11,7,"MA, PhD",,,,,2
+80212,SV,80212EICG,2015-04-10,RV,1953-09-05,61,2,4,1,,1,,Senior Manager- Public Kusc radio,"Community outreach, fundraising, voice-overs, editing",41,37,,,,,,,,,,,,,11,6,,,,,,2
+80215,SV,80215BIRC,2015-03-25,EB,1958-10-03,56,2,4,1,,1,,"CFO/Director of Finance, OPS, Human Resources",Administrative,40,15,,,,,,,,,,,,,11,7,MBA,,,,,2
+80218,SV,80218LINA,2015-03-09,EB,1950-12-16,64,2,5,1,,1,,Physical Therapist,Physical Therapist,40,38,,,,,,,,,,,,,11,7,Certificate in Health Science,,,,,2
+80219,SV,80219RISK,2015-03-24,EB,1952-06-03,62,2,2,1,,2,,,,,,Sales Associate,Worked w customers to solve their DIY projects,6,1,,CRNA,Anesthesia Nursing,40,18,,,,11,7,MA French,,7,MS-Biology,,2
+80221,SV,80221FUCM,2015-03-27,EB,1954-04-24,60,2,2,1,,2,,,,,,RN,ICU / RR,18,1,,Urology Professor,Surgery and teaching,50,35,,,,11,6,,,7,PhD/MD,,2
+80222,SV,80222HUGM,2015-04-06,RV,1957-10-03,57,2,1,1,,3,,,,,,Waitress/Sales,,10,1,,Maintenance,"Repairing, installing, maintaining, cleaning",24,0.5,,,,3,5,,,3,,,2
+80223,SV,80223JAKM,2015-04-08,RV,1960-08-30,54.6,1,2,1,,1,,Associate Professor,Research,60,20,,,,1,,Physician Scientist,Clinical research,60,20,,,,11,7,PhD,,7,MD,,2
+80224,SV,80224LANA,2015-04-20,RV,1945-02-12,70,2,2,1,,1,,Research Tech III,"Basic Research, Purify Proteins",45,15,,,,1,,Associate professor,"Teach, research, consultant in tort cases",45,35,,,,11,6,,,7,PhD Chemistry,,2
+80226,SV,80226OKIW,2015-04-09,RV,1957-08-29,57,1,2,4,,1,,Engineer,"Office work, engineering & management",40,34,,,,1,,medical research associate,lab,8,27,,,,11,7,MS,,7,MS,,2
+80229,SV,80229RAMG,2015-04-16,EB,1940-01-03,75,1,2,3,,2,,,,,,Hairstylist,Service,42,2,,,,,,Teacher,Teaching,25,4,5,,,7,"Special Education, Counseling",,2
+80230,SV,80230RAMA,2015-04-16,RV,1952-06-13,62,2,2,3,,2,,,,,,Special Education Teacher,Teaching,25,2,,,,,,Hair stylist,Service,42,4,7,"Special Education, Computer Science",,8,,Cosmetologist,2
+80231,SV,80231RICL,2015-09-24,RV,1957-06-20,57,2,1,2,,1,,"Associate Director, USC Gould School of Law",Recruitment/Administrator in Career Services Office,40,35,,,,,,,,,,,,,8,6,,,,,,2
+80243,SV,80243DANJ,2015-04-23,JL,1941-10-05,73,1,2,1,,1,,Psychiatric Social Worker,Alzheimer's Research,70,45,,,,1,,Literary manager & producer,Makes books become movies,70,50,,,,11,7,MSW,,7,MFA,,2
+80244,SV,80244GUNA,2015-04-17,RV,1946-07-10,68,2,5,4,,1,,Project Co-ordinator,,20,1.5,,,,,,,,,,,,,11,6,,,,,,2
+80245,SV,80245BURB,2015-04-14,RV,1958-04-28,56,1,2,1,,2,,,,,,Police Officer,Police,30,1,,Loan Processor,Process Loans,55,20,,,,11,5,,,3,,,2
+80248,SV,80248HORB,2015-03-31,JL,1940-07-23,74,1,2,1,,1,,Property Management,Manage Family Trust and Properties,65,8,Real Estate Sales,Real Estate Sales,20,1,,Administrator,Administrator,42.5,30,,,,11,5,,,6,,,2
+80250,SV,80250TERR,2015-04-21,RV,1958-02-23,57,1,2,1,,2,,,,,,Attorney (District Attorney),Courtroom trials,23,1,,Medical Doctor,Pediatrician,50,30,,,,11,7,Juris Doctorate,,7,MD,,2
+80252,SV,80252MASF,2015-05-01,RV,1941-06-25,73,1,2,3,,2,,,,,,Librarian,Library director,39,1,,Librarian,Library director,37.5,34,,,,11,7,MSLS,,7,MSLS,,2
+80253,SV,80253DANJ,2015-05-11,LW,1947-04-15,68,1,2,1,,1,,Teacher,"USC School of Cinematic Arts, Production, Filmmaker",50,35,,,,1,,Teacher,USC School of Cinematic Arts; USC Annenberg School of Communication and Journalism,40,25,,,,11,7,MA History; PhD History,,7,MA Cinema Production,,2
+80254,SV,80254CHUB,2015-04-24,LW,1956-04-26,58,2,2,4,,1,,Public Administration,Government,40,33,,,,1,,Aviation,Flys planes,20,30,,,,11,6,,,6,,,2
+80256,SV,80256MACL,2015-04-14,RV,1949-10-21,65,2,2,1,,1,,Asst. VP USC Health Plans,Health plan administration,50,35,,,,2,,,,,,Internet security,Internet security,20,11,7,JD,,5,,,2
+80257,SV,80257HENV,2015-05-05,RV,1957-11-01,57,2,3,1,,1,,Research tech,Lab work,50,2,,,,,,,,,,,,,4,7,MS Biotechnology & Bioinformatics,,,,,2
+80258,SV,80258TAYJ,2015-05-12,EB,1943-09-25,71,2,4,1,,1,,Auditor/Stein mart part time,Count money,12.5,14,HR manager,,20,,,,,,,,,,4,7,MBA,,,,,2
+80260,SV,80260BRAS,2015-05-08,EB,1951-09-24,63,1,4,1,,1,,Programmer,Software development,40,43,,,,,,,,,,,,,10,6,,,,,,2
+80263,SV,80263BETD,2015-05-20,EB,1945-06-24,69,2,2,1,,2,,,,,,Nursing,Hospital/office,30,1,,Accounting/Tax prep,,40,43,,,,9,5,,,7,EA enrolled agent,,2
+80264,SV,80264FUQK,2015-05-01,EB,1959-01-17,56,1,2,1,,1,,Property Management,Manage apartment buildings,40,23,,,,1,,Realtor,Buying and selling real estate,40,25,,,,11,6,,,5,,,2
+80266,SV,80266ARZS,2015-04-20,EB,1955-09-24,59,1,2,2,,1,,Project manager,Information technology,40,36,,,,1,,Teacher,Teach at elementary school,35,12,,,,11,7,Master of leadership,,7,Master of humanities,,2
+80268,SV,80268EPSC,2015-05-22,JL,1957-06-27,57,2,2,1,,1,,Marriage therapist & Esthetician,Therapist and skin care,22,17,,,,1,,LMP consultant,Internet consultant for healthcare,45,12,,,,10,6,,,7,MBA,,2
+80269,SV,80269KARJ,2015-05-18,EB,1933-06-25,82,1,1,1,,2,,,,,,Architect,Building designer,32,,,,,,,,,,7,5,,,,,,2
+80271,SV,80271JARM,2015-06-03,EB,1944-10-31,70,2,4,1,,1,,Administrator,Admistrator,50,40,,,,,,,,,,,,,6,6,,,,,,2
+80272,SV,80272HALB,2015-06-03,JL,1953-10-26,61,2,2,1,,1,,Training Manager,Lead students in experimental exercises,40,16,,,,2,,,,,,"Accountant, Supervisor, Programmer","Accountant, Supervisor, Programmer",24,9,7,"MA, PhD",,6,,,2
+80274,SV,80274OHTH,2015-06-09,RV,1938-04-15,77,1,2,4,,2,,,,,,Chauffeur,Taxi Driver,20,5,Housewife,,,,,Housewife,Managing her family's home,-99,2,4,,,3,,,2
+80277,SV,80277LEWL,2015-05-21,RV,1946-09-26,68,2,1,1,,2,,,,,,Librarian,Cataloger for special collections,12,,,,,,,,,,3,7,"MA Theater Arts, MLS",,,,,2
+80278,SV,80278GROC,2015-05-22,EB,1949-02-27,65,1,2,1,,1,,Printer,"typesetting, file preparation",30,40,,,,2,,,,,,"Library worker, dental assistant, pet sitter, hospice volunteer coordinator",various,30,4,6,,,5,,,2
+80280,SV,80280FOCF,2015-06-02,EB,1957-11-04,57,1,2,1,,2,,,,,,Winemaker/Agricultural Inspector,Make wine/Protect CA Agriculture,18,2,,,,,,Farmer,"Dairy, crops",25,9,6,,,7,Agriculture,,2
+80283,SV,80283MEAJ,2015-06-15,EB,1946-11-05,68,2,4,1,,2,,,,,,Accountant,Accountant,30,,,,,,,,,,3,6,,,,,,2
+80284,SV,80284SCHW,2015-06-10,RV,1936-09-17,78,1,2,1,,2,,,,,,Electrical engineer,"Design, semiconductor, components",40,2,,,,,,Registered nurse,Nursing,10,8,7,"BS, MS",,5,,,2
+80285,SV,80285WERP,2015-06-17,JL,1945-01-30,70,1,2,1,,2,,,,,,Electronic Tech,"Maintenance, repair",30,2,,,,,,Property management,Clerical,20,4,5,,,5,,,2
+80287,SV,80287MITM,2015-06-24,LW,1947-10-12,67,2,1,1,,1,,Clinical Nurse Specialist - Psychiatry,Review medical records,40,44,,,,,,,,,,,,,11,7,"MN, MA, MDIV",,,,,2
+80290,SV,80290RISR,2015-06-17,RV,1942-08-31,72,1,2,1,,1,,Administration,"Desk, operations",35,35,,,,2,,,,,,"University professor, Admin asst","Teaching, desk",20,11,7,PhD,,7,PHd,,2
+80291,SV,80291MACL,2015-06-09,JL,1939-03-06,76,2,2,1,,2,,,,,,College professor,Teaching and research,25,2,,,,,,Photographer,,30,8,7,PhD,,6,,,2
+80292,SV,80292PONJ,2015-06-15,RV,1951-12-14,63,1,4,3,,1,,Finance director,Accounting and finance,40,20,,,,,,,,,,,,,11,7,"JD, MBA",,,,,2
+80295,SV,80295HANM,2015-06-16,JL,1948-08-03,66,2,4,1,,1,,Teacher,Teach,12,40,,,,,,,,,,,,,8,7,MA,,,,,2
+80299,SV,80299ROBA,2015-06-01,RV,1953-05-12,62,2,2,3,,1,,Nurse Practioner,Primary Care,30,5,,,,2,,,,,,Business Sales,Sales,20,8,7,MSN FNP,,6,,,2
+80300,SV,80300BRED,2015-06-10,LW,1935-08-02,79,2,4,1,,2,,,,,,Contracts administrator,,16,,,,,,,,,,9,6,,,,,,2
+80303,SV,80303RAND,2015-06-22,EB,1940-11-23,74,1,2,1,,1,,Program manager,Office work - project mgt & documentation,47.5,20,,,,2,,,,,,Librarian,Branch manager,30,11,7,"MS, MBA, BS",,7,"MLS (library science), BA",,2
+80304,SV,80304LEVE,2015-06-18,JL,1933-12-16,81,2,5,1,,2,,,,,,Motherhood,Everything,60,,,,,,,,,,4,5,,,,,,2
+80305,SV,80305BATS,2015-06-19,LW,1953-05-18,62,1,2,1,,1,,Sales Associate/ Home Depot,Selling doors & windows,40,12,,,,1,,Director of adult literacy,Directing literacy program at local library,27.5,1,,,,7,7,Masters in Christian Studies,,7,Masters in Organizational Leadership,,2
+80306,SV,80306BADL,2015-06-24,JL,1935-07-29,79,2,4,1,,1,,Library assistant,Clerical,20,28,,,,1,,Engineer,Urban transportation,40,35,,,,4,7,MPA,,7,MA engineering,,2
+80307,SV,80307MAGE,2015-06-22,RV,1945-05-17,70,2,2,3,,2,,,,,,RN,Post partum,25,5,Self-employed,,,,,Prop. Mgmt,50,30,2,5,,,3,,,2
+80308,SV,80308HERP,2015-07-27,EB,1955-04-19,60,2,2,3,,1,,Instructional assistant,"Educational, teaching",25,34,,,,1,,Groundskeeper,"Takes care of athletic fields, school landscape",40,19,,,,9,2,,,2,,,2
+80310,SV,80310HERK,2015-05-28,RV,1959-05-30,55,1,2,1,,4,,,,,,Technician,Meter installations & Navy systems tech.,10,2,,,,,,Municipal finance,Law,22,1,5,,,7,Law,,2
+80311,SV,80311NEAM,2015-06-25,JL,1953-05-10,62,2,2,1,,1,,Research assistant,Manage insect husbrandry & environmental start-up,17.5,1.5,Attorney,Representing children in abuse/neglect cases,18,1,,Professor,Teach/research,50,48,,,,11,7,"JD, Masters in Communication",,7,Doctorate,,2
+80312,SV,80312CORS,2015-07-27,RV,1955-09-05,59,2,4,2,,1,,Administrative Assistant,Administrative,40,10,,,,,,,,,,,,,6,6,,,,,,2
+80313,SV,80313BUMD,2015-06-30,EB,1959-10-09,55,1,2,1,,1,,Teacher,Elementary education,50,28,,,,1,,Teacher,Elementary education,60,22,,,,11,7,MA,,7,MA,,2
+80314,SV,80314SWEW,2015-07-01,RV,1952-06-06,63,1,1,1,,1,,Controller,Accounting,50,40,,,,,,,,,,,,,11,6,,,,,,2
+80328,SV,80328PINB,2015-06-30,rv,1951-08-17,63,1,2,1,,1,,Financial advisor,Financial planning & investments,40,18,,,,2,,,,,,Education,Pre school teaching,15,11,7,PhD,,7,MA,,2
+80329,SV,80329LACB,2015-06-04,RV,1953-03-26,62,1,2,1,,1,,Fitness & Health Coach (Self-employed),Fitness and Health Coach,14,2,,,,1,,Ceramic Artist,Ceramic Designer,20,41,,,,7,5,,,6,,,2
+80330,SV,80330JOHK,2015-06-05,RV,1959-05-15,56,1,2,1,,2,,,,,,Firefighter / Paramedic,"Firefighting, emergency medical care",36,1,,Therapeutic horse instructor,Special needs therapy,24,10,,,,11,6,,,5,,,2
+80331,SV,80331LUID,2015-06-01,EB,1949-10-21,65,1,4,1,,1,,"Aerospace Engineer,",Advance Materials for Aircraft + Space Craft,40,37,,,,,,,,,,,,,11,7,PhD Chemical Physics,,,,,2
+80333,SV,80333SHUG,2015-06-29,EB,1959-07-19,56,1,4,4,,1,,Engineer,Office,45,30,,,,,,,,,,,,,11,6,,,,,,2
+80335,SV,80335PREL,2015-08-10,RV,1955-06-14,60,2,2,1,,1,,Substitute teacher,Teach,30,7,,,,1,,Courier,"Deliver materials, mail to schools",40,30,,,,4,7,B Ed + 44 units Reading & Literacy,,6,,,2
+80336,SV,80336AREL,2015-06-12,RV,1953-10-29,61,1,4,3,,3,,,,,,Apartment manager,Take care of apartment building,20,,,,,,,,,,1,5,,,,,,2
+80337,SV,80337KIKG,2015-07-01,JL,1933-03-01,82,1,4,1,,2,,,,,,Engineer,Design/Analysis of thermal systems,33,,,,,,,,,,3,7,MS,,,,,2
+80338,SV,80338GRAS,2015-06-04,JL,1951-10-03,63,1,2,1,,1,,Higher education consultant,Training/consulting w/ higher ed. staff,30,1,College professor,"Theatre professor, acting, movement, voice",35,1,,Higher ed consultant,Teaching/consulting,30,1,University administrator/professor,AVP enrollment mgmt.,25,11,7,"BA, MA, PhD",,7,"BA, MFA",,2
+80340,SV,80340ISHP,2015-06-15,EB,1949-07-13,65,1,2,4,,2,,,,,,Regional Sales Manager,Promoting Japanese Beer,35,1,,Nurse Practioner,Primary Care,30,7,,,,8,6,,,7,MSN,,2
+80341,SV,80341KLIM,2015-07-02,JL,1934-11-29,80,1,4,1,,1,,Resident buyer and consultant,Buy clothes and serve retail store,60,48,,,,,,,,,,,,,6,7,MBA & BS,,,,,2
+80344,SV,80344GULB,2015-08-12,RV,1954-09-19,60,2,2,1,,4,,,,,,Teacher,Educator,20,2,,,,,,Engineer,Management,33,11,6,,,6,,,2
+80345,SV,80345KINL,2015-07-08,EB,1933-06-09,82,2,5,3,,2,,,,,,Travel  consultant,Planning & selling travel,20,,,,,,,,,,2,4,,,,,,2
+80346,SV,80346RADA,2015-09-18,JL,1953-08-03,62,2,2,1,,1,,Therapist at non-profit,"Counseling, case management",35,40,,,,2,,,,,,Corporate marketing,PR/marketing/sales,30,11,7,"MS, 3 yrs towards PhD",,6,,,2
+80347,SV,80347MEIS,2015-07-06,RV,1944-01-31,71,2,4,1,,1,,Accounting Clerk,Bookkeeping,40,17.5,Contracts administrator,Commercial construction,27.5,,,,,,,,,,8,6,,,,,,2
+80348,SV,80348LACA,2015-07-21,JL,1955-08-25,59,2,2,1,,1,,Ceramic Artist,Ceramics & Marketing,25,30,,,,1,,Health coach,Advise & work with seniors & disabled people,25,3,,,,9,6,,,7,MA Chinese Medicine,,2
+80359,SV,80359BISJ,2015-07-15,EB,1951-07-16,64,2,2,1,,1,,Occupational therapist,"work with graduate students, teach elementary school, special needs children",27,32,,,,1,,Attorney,Law,40,35,,,,11,7,"Doctorate, occupational therapy",,7,Law,,2
+80360,SV,80360HOWT,2015-07-07,jl,1955-11-29,59,1,2,1,,1,,Musician/Teacher,Musician/Teacher,40,35,,,,1,,Designer,Architecture/Design,40,35,,,,11,7,"MM, DMA, BM",,5,,,2
+80362,SV,80362BEWP,2015-07-22,JL,1931-12-16,83,2,2,3,,2,,,,,,Telephone operator,answer phone calls,38,2,,,,,,Refused to answer,Refused to answer,-99,12,5,,,5,,,2
+80363,SV,80363BENC,2015-07-17,RV,1939-01-16,76,1,2,1,,2,,,,,,Information technology,Information technolog,42,5,Refused to answer,,,,,Refused to answer,,,12,4,,,8,,Refused to answer,2
+80364,SV,80364MASE,2016-02-03,EB,1952-09-15,63,2,1,1,,2,,,,,,Sales/Service,"Cosmetics, odd jobs, waiter",40,,,,,,,,,,2,5,,,,,,2
+80366,SV,80366HOLR,2015-11-10,RV,1956-03-15,59,1,1,3,,3,,,,,,Painter,Painter,8,,,,,,,,,,4,5,,,,,,2
+80367,SV,80367ALEK,2015-07-29,RV,1958-03-03,57,1,2,1,,1,,Professor of Mathematics,"research, teaching",45,33,,,,2,,,,,,"City Treasurer, Culver City",Management,35,11,7,PhD,,7,Master of Public Admin.,,2
+80370,SV,80370MALW,2015-07-23,RV,1939-06-06,76,1,2,1,,2,,,,,,Maintenance Mechanic,Repair & maintain production machines,20,2,,,,,,Sales,Selling,20,4,4,,,2,,,2
+80371,SV,80371CARS,2015-08-20,JL,1943-12-01,71,2,2,1,,2,,,,,,Psychotherapy,Psychotherapy,25,2,,,,,,Detective,Police investigation,33,10,7,MS,,5,,,2
+80372,SV,80372HENB,2015-07-24,RV,1958-03-24,57,1,3,1,,1,,Sales Engineer,Electronics sales rep,48,14,,,,1,,"Engineer, biotech researcher","Medical technical, engineering",40,20,,,,11,7,"BSEE, MSEE",,7,"BSEE, MS Bio Science",,2
+80377,SV,80377POTC,2015-08-24,RV,1954-02-01,61,2,2,1,,2,,,,,,Teacher,History and Science Teacher,15,1,,Bus driver/trainer,Trains school bus drivers,40,32,,,,9,7,Masters in education,,3,,,2
+80381,SV,80381DAVK,2015-08-25,EB,1951-02-19,64,2,2,1,,1,,Judicial secretary,Office administration,40,25,,,,1,,LA County Counsel,Dependency,40,20,,,,7,5,,,7,JD,,2
+80382,SV,80382ENGB,2015-11-23,JL,1958-10-24,57,2,1,1,,1,,University administrator,Administration,40,25,,,,,,,,,,,,,11,6,,,,,,2
+80386,SV,80386WAGJ,2015-08-19,JL,1953-05-13,62,2,2,1,,1,,Education/music education,"Liason with schools/industry, music education",15,25,,,,1,,Logistics,Logistics/analysis,45,38,,,,11,7,"Kodaly music edu, legal assistant certificate, teaching credential",,7,Logstics certificate after bachelor degree,,2
+80387,SV,80387HALM,2015-08-27,EB,1951-05-28,64,2,2,1,,1,,RN,Surgery- Peri Operative nursing,40,45,,,,1,,Dentist,Dentist work,32,45,,,,11,8,,Nursing School,7,DDS,,2
+80388,SV,80388DOIK,2015-10-14,EB,1943-09-19,72,1,4,4,,1,,Commercial real estate,Sell commercial property/businesses,25,5,Liquor sales,"Sale of liquor to bars, restaurants, hotels",25,,,,,,,,,,5,7,Did not complete,,,,,2
+80389,SV,80389WONY,2015-09-04,RV,1953-09-29,61,2,1,4,,1,,Real Estate Broker,Real Estate,3,30,,,,,,,,,,,,,12,6,,,,,,2
+80390,SV,80390MOOJ,2015-09-04,EB,1948-12-30,66,1,4,1,,2,,,,,,Business owner,Distribution,40,,,,,,,,,,11,7,MBA,,,,,2
+80392,SV,80392CHIE,2015-09-25,RV,1950-09-22,65,2,5,4,,2,,,,,,Teacher / Administrator,Education,31,,,,,,,,,,11,7,"M education, administative/ teaching credential",,,,,2
+80395,SV,80395ZAPJ,2015-09-29,rv,1952-07-30,63,1,4,1,,1,,Content producer / Sodial media mgr,Write on topics relevant to the recruiting industry,27.5,9,,,,,,,,,,,,,11,7,BA and JD,,,,,2
+80396,SV,80396FIET,2015-09-17,EB,1949-10-12,65,2,1,1,,1,,Tester,Confidential,-99,20,,,,,,,,,,,,,1,5,,,,,,2
+80397,SV,80397BORD,2015-09-02,JL,1950-08-09,65,1,2,1,,1,,Accountant,Financial & administrative,55,42,,,,1,,Campus aide,supervision,20,6,,,,11,7,Master of science,,6,,,2
+80398,SV,80398DELP,2015-10-02,EB,1954-01-23,61,1,3,3,,1,,Clerk,Desk - computer - office,40,37,,,,1,,Clerk,Office,40,20,,,,7,6,,,5,,,2
+80399,SV,80399JARC,2015-09-11,EB,1954-04-14,61,2,2,1,,2,,,,,,Finance director,Manager,30,2,,,,,,Clinical Lab Scientist,Lab Tests,40,11,6,,,7,MBA,,2
+80400,SV,80400GONI,2015-09-02,eb,1955-02-27,60,2,1,3,,2,,,,,,Environmental Specialist,hazardous waste management,25,,,,,,,,,,6,7,MA environmental analysis,,,,,2
+80401,SV,80401SHEV,2015-09-17,RV,1949-11-10,65,2,2,1,,2,,,,,,Teacher - elementary school,,28,2,,,,,,Salesman,Golf equipment,32,9,6,,,6,,,2
+80402,SV,80402WOOW,2015-09-14,RV,1957-09-14,57,1,2,4,,1,,Marketing consultant/sales,"Mobile marketing, web/internet",40,5,Stockbroker,Financial services industry,22,1,,Child support officer,Department of children's services,40,8,,,,11,6,,,6,,,2
+80409,SV,80409MAPH,2015-10-20,RV,1958-04-27,57,1,4,2,,1,,Customer Service Agent,United Airlines,30,25,,,,,,,,,,,,,8,5,,,,,,2
+80410,SV,80410BLOR,2015-09-30,EB,1951-09-19,64,2,4,1,,2,,,,,,Attorney,Legal,23,,,,,,,,,,11,7,BA and JD,,,,,2
+80411,SV,80411GILS,2015-10-06,RV,1950-07-25,65,2,5,1,,2,,,,,,Administration,Exec asst to president; Cal Poly Pomona,40,,,,,,,,,,5,5,,,,,,2
+80412,SV,80412KOWR,2015-09-25,EB,1955-10-08,59,2,5,4,,1,,Teacher,Teaching,20,13,,,,,,,,,,,,,5,7,MA Ed Tech,,,,,2
+80413,SV,80413VEGB,2015-09-23,JL,1957-05-04,58,2,2,3,,5,Volunteer legal services and tutoring,,,,,Attorney,Legal for corporation,31,1,,Vector ecologist / public health,Mosquito control,45,30,,,,11,7,JD,,7,PhD,,2
+80415,SV,80415VANR,2015-09-22,RV,1959-08-27,56,1,4,1,,1,,Caretaker,Caretaker,40,7,,,,,,,,,,,,,8,6,,,,,,2
+80416,SV,80416CURS,2015-10-09,EB,1948-07-30,67,2,4,1,,1,,School administrator,Director special education,24,44,,,,,,,,,,,,,11,7,M.Ed.,,,,,2
+80417,SV,80417FIEK,2015-10-05,JL,1956-09-25,59,1,5,1,,4,,,,,,Marketing,Marketing,40,,,,,,,,,,2,5,,,,,,2
+80418,SV,80418KAYJ,2015-11-30,EB,1957-08-26,58,2,4,1,,1,,Attorney,Legal services,60,30,,,,,,,,,,,,,11,7,"JD, MBA",,,,,2
+80420,SV,80420LOPM,2015-10-15,EB,1947-02-24,68,2,4,1,,1,,RN,Acute care / hospital,36,26,,,,,,,,,,,,,12,2,,,,,,2
+80421,SV,80421LISL,2015-10-22,EB,1945-11-09,69,2,4,1,,2,,,,,,Marketing,Shipping industry,15,,,,,,,,,,6,6,,,,,,2
+80422,SV,80422STAS,2015-11-25,EB,1951-09-13,64,2,4,1,,1,,"Actress, writer/producer",Act on a TV series,24,3,,,,,,,,,,,,,5,6,,,,,,2
+80423,SV,80423SCHN,2015-10-09,RV,1941-03-07,74,2,4,1,,2,,,,,,Speech-Language Pathologist,Clinical and educational,36,,,,,,,,,,8,7,Teaching credentials,,,,,2
+80435,SV,80435VANM,2015-10-05,RV,1949-07-06,66,2,2,1,,4,,,,,,Human Resources professional,Employee/ labor relations,40,2,,,,,,Software engineer,Software design,40,5,7,"BA, MS",,6,,,2
+80436,SV,80436ANGP,2015-10-08,RV,1958-10-14,56,1,2,3,,2,,,,,,Fire fighting / rescue,Fire fighter,31,1,,Artist / bookkeeper,Paint and accounting,30,25,Office manager,Managing employees,10,6,5,,,5,,,2
+80437,SV,80437JANM,2015-10-13,JL,1948-06-16,67,2,1,4,,2,,,,,,Aerospace engineer,Office,25,,,,,,,,,,5,7,"MS, PhD",,,,,2
+80438,SV,80438RICM,2015-10-15,JL,1958-06-02,57,1,2,1,,1,,Administrator,Office,70,35,,,,1,,Accounting,Accounting,60,38,,,,11,6,,,6,,,2
+80439,SV,80439MALJ,2015-11-20,EB,1933-07-03,82,2,5,1,,2,,,,,,Teacher,,16,5,Deceased,,,,,Computer & Software,Management,40,4,6,,,7,MBA,,2
+80440,SV,80440HAUL,2015-10-14,RV,1946-12-03,68,2,5,3,,2,,,,,,Loan Officer,Approved mortgage Loans. Examining applications.,20,,,,,,,,,,2,5,,,,,,2
+80441,SV,80441CORC,2015-10-16,EB,1941-03-08,74,2,5,1,,2,,,,,,Executive assistant,Wide variety of office and committees,25,,,,,,,,,,4,5,,,,,,2
+80442,SV,80442SINJ,2015-10-29,EB,1952-09-24,63,2,1,1,,1,,PA,,30,30,,,,,,,,,,,,,7,7,PA MPH,,,,,2
+80443,SV,80443WILN,2015-10-23,RV,1959-08-27,56,2,1,2,,4,,,,,,Purchasing specialist,Contract-preparation,16,,,,,,,,,,12,8,,Degree credited specialized training in purchasing & material management,,,,2
+80444,SV,80444GOMA,2015-10-13,EB,1955-06-15,60,2,2,3,,2,,,,,,"Office work, Computer/Network administration",Clerical,25,2,,,,,,Accounting,Accounting,25,5,5,,,6,,,2
+80445,SV,80445HYDF,2015-11-04,EB,1935-03-02,80,2,4,2,,2,,,,,,Educator,Teaching Kdgn - Graduate levels,49,,,,,,,,,,7,7,MS & PhD,,,,,2
+80446,SV,80446GROA,2015-10-27,EB,1950-07-04,65,2,2,1,,2,,,,,,Teacher,Public School,24,2,,,,,,Business Executive,Banking,35,11,6,,,6,,,2
+80447,SV,80447KEMF,2016-01-08,JL,1949-02-16,66,2,2,3,,1,,Consultant,Computer,22.5,40,,,,2,,,,,,Banker,Banking & Finance,40,7,5,,,6,,,2
+80448,SV,80448GONR,2015-10-23,JL,1941-10-08,73,2,4,3,,2,,,,,,Sales rep,Sold products,26,,,,,,,,,,2,5,,,,,,2
+80449,SV,80449MUNB,2015-10-22,RV,1958-08-20,57,2,4,3,,1,,Forensic social worker,Provide court competency ed & treatment to inmates,20,26,,,,,,,,,,,,,9,7,Master of social work,,,,,2
+80450,SV,80450REEJ,2015-11-13,RV,1957-01-12,58,1,1,1,,2,,,,,,Computer programmer,Systems programming/ Database management,33,,,,,,,,,,11,6,,,,,,2
+80451,SV,80451HORS,2015-11-02,JL,1954-08-17,61,2,4,1,,1,,Esthetician,Skincare,20,6,,,,,,,,,,,,,4,5,,,,,,2
+80452,SV,80452POME,2015-11-16,LW,1950-09-15,65,2,2,1,,2,,,,,,Education - teaching & administration,Teaching,37,1,,Marine clerk - longshore,Office dispatching,40,30,,,,11,7,"Masters, teaching credential, administrative credential",,6,,,2
+80455,SV,80455LOPL,2015-10-19,JL,1951-01-22,64,1,2,3,,3,,,,,,Mechanic,Car repair,27,2,,,,,,Clerk,Receptionist,9,3,3,,,4,,,2
+80457,SV,80457KREJ,2016-03-18,EB,1953-09-26,62,2,2,1,,2,,,,,,Broadcast Journalist,"Radio news anchor, writer, documentarian",12,2,,,,,,Cable television sales & marketing,Establishing and maintaining client relationships,30,11,6,,,7,Executive buisness program,,2
+80486,SV,80486CABM,2015-11-13,JL,1948-06-04,67,2,2,3,,1,,RN - educator,Administrative,40,38,,,,1,,LCSW Social worker,Counseling / consultation,20,33,,,,11,6,,,7,MSW,,2
+80487,SV,80487LANM,2015-11-09,LW,1959-07-23,56,1,4,1,,1,,Physician,Medical care,50,27,,,,,,,,,,,,,7,7,MD,,,,,2
+80493,SV,80493URMU,2015-11-05,JL,1935-04-25,80,1,2,1,,2,,,,,,Engineer,Computer,40,1,,Real estate,Sales,50,35,,,,12,7,MS,,7,MS,,2
+80495,SV,80495URMG,2015-12-09,RV,1941-12-12,73,2,2,1,,1,,Real Estate Broker,"Sell, List, Lease",50,37,,,,2,,,,,,Computer Engineer,Interfacing between NASA/AF & contractors,35,12,7,"BS, MPA",,7,"BS, MBA",,2
+80607,SV,80607WILJ,2016-02-12,RV,1954-10-17,61,2,1,2,,1,,Personnel Records Supervisor,Human resources,40,38,,,,,,,,,,,,,8,5,,,,,,2
+80608,SV,80608ARCR,2015-11-09,RV,1940-04-13,75,1,2,1,,2,,,,,,Educator,Teacher and administrator,38,2,,,,,,Parent facilitator,Working with parents in schools,28,10,7,MS,,5,,,2
+80609,SV,80609ADDB,2015-11-03,LW,1950-04-17,65,2,4,2,,2,,,,,,Escrow officer,Real Estate,36,,,,,,,,,,4,5,,,,,,2
+80707,SV,80707PIND,2015-11-13,EB,1944-12-10,70,2,4,2,,1,,Part-time bookkeeper,Accounting,20,36,,,,,,,,,,,,,3,5,,,,,,2
+80735,SV,80735LEEW,2015-11-19,EB,1944-10-24,71,1,2,4,,2,,,,,,Administration Vice President,Administrative / management,33,1,,Teacher,Teacher,40,32,,,,8,5,,,7,Master,,2
+80736,SV,80736VERM,2015-11-18,RV,1954-04-07,61,1,4,1,,1,,Guitarist,Play guitar,5,46,,,,,,,,,,,,,4,6,,,,,,2
+80738,SV,80738STRC,2015-11-16,RV,1958-05-02,57,2,2,1,,1,,Manage computer systems,Manage computer systems,47.5,35,,,,1,,Internal auditor,Audits,40,15,,,,11,6,,,6,,,2
+80739,SV,80739DENR,2015-12-11,RV,1958-02-10,57,1,2,1,,1,,Landlord,"Home maintenance, improvement",20,17,,,,1,,Dietician,"Weights, diets",11,20,,,,10,5,,,6,,,2
+80740,SV,80740BAIJ,2015-12-10,EB,1958-09-22,57,2,2,1,,1,,Bookkeeper,Bookkeeping,30,35,,,,1,,Customer service,Telephone support,40,2,,,,11,5,,,7,"MA English literature, MFA - Motion picture production",,2
+80742,SV,80742AXEM,2015-11-23,RV,1956-02-29,59,1,1,1,,2,,,,,,Sales,"Insurance, lenses, cars",25,,,,,,,,,,3,6,,,,,,2
+80750,SV,80750USIJ,2015-11-30,JL,1939-04-01,76,1,4,1,,2,,,,,,Aerospace,Administration,40,,,,,,,,,,6,7,"BSME, MBA",,,,,2
+80752,SV,80752PATD,2015-11-24,RV,1957-04-04,58,1,4,1,,1,,Teacher,Education,40,29,,,,,,,,,,,,,12,7,Masters,,,,,2
+80756,SV,80756SCAJ,2015-12-14,EB,1952-02-18,63,1,1,1,,1,,Engineer - Auto mechanic,"Process planning, repair cars",15,40,Engineer - process planning,Writing plans to build stuff,10,,,,,,,,,,1,6,,,,,,2
+80763,SV,80763TINS,2015-11-24,JL,1954-03-03,61,2,4,1,,3,,,,,,Residual payroll coordinator,Entertainment payroll company,16,,,,,,,,,,2,2,,,,,,2
+80766,SV,80766MORR,2016-02-22,RV,1951-01-13,65,2,2,1,,1,,Writer / IHHS Care Giver,Freelance writing / Web design,40,1,,,,3,,,,,,Massage Therapist,Massage,28,2,6,,,5,,,2
+80769,SV,80769HSIC,2015-12-18,EB,1953-09-18,62,2,2,4,,2,,,,,,Administrator,Aerospace/Electronics,23,2,,,,,,Computer software engineer,Computer programming,29,6,6,,,7,MS,,2
+80787,SV,80787SCHL,2016-01-12,JL,1957-04-06,58,2,1,1,,1,,Sonographer,Ultrasound,40,34,,,,,,,,,,,,,10,5,,,,,,2
+80789,SV,80789ROTC,2016-01-07,JL,1952-11-04,63,2,4,1,,1,,Cosmetics consultant,Cosmetics consultant for Clinique Cosmetics,10,7,,,,,,,,,,,,,5,6,,,,,,2
+80793,SV,80793SANM,2016-02-09,RV,1947-10-18,68,2,3,6,Costa Rican,2,,,,,,Teacher,Volunteer in classroom,31,,,,,,,,,,5,7,BA - Teaching credential,,,,,2
+80804,SV,80804HALA,2016-02-04,RV,1960-12-02,55,2,2,1,,1,,Arbitration and financial consulting,Financial,40,25,,,,1,,Financial and accounting,Financial,40,25,,,,12,6,,,6,,,2
+80807,SV,80807MELR,2016-03-07,RV,1953-05-30,63,1,2,1,,4,,,,,,Journalist/TV Producer,Writing &  Producing TV & Radio,40,1,,Doctor,Cancer doctor,45,23,,,,11,6,,,7,MD,,2
+80811,SV,80811MARC,2016-03-01,EB,1960-03-19,55,2,2,1,,1,,Performer,Singer/Actor,20,30,,,,4,,,,,,Performer,Actor/Singer,30,5,6,,,7,MFA,,2
+80812,SV,80812ZERG,2016-03-01,RV,1957-08-19,58,1,2,1,,1,,Actor,"Act, direct, write",-99,35,,,,1,,Actor / Singer,"Acting, musician",-99,30,,,,6,7,MFA,,6,,,2
+80814,SV,80814CLAG,2016-03-03,EB,1954-08-22,61,1,1,1,,1,,Personal Assistant,Clerical,20,2,,,,,,,,,,,,,4,7,NA,,,,,2
+80815,SV,80815BRIJ,2016-02-19,JL,1940-08-16,75,2,1,1,,2,,,,,,Real Estate Agent,Real Estate,40,,,,,,,,,,3,7,Masters in Education,,,,,2
+80817,SV,80817POMA,2016-04-06,JL,1960-10-19,55,1,2,1,,1,,Attorney,Legal,40,36,,,,1,,Attorney,Legal work,35,38,,,,11,7,"AA, BA, JD",,7,"BA, JD",,2
+80818,SV,80818HECM,2016-03-25,JL,1961-03-09,55,1,2,1,,1,,Epidemiologist / Study coordinator,Public health research,40,22,,,,1,,Research scientist,"Principal investigator (study design, analysis, grant acquisition)",40,6,,,,11,7,MPH,,7,"PhD, MD",,2
+80824,SV,80824CUTS,2016-02-12,JL,1942-03-05,73,2,5,1,,2,,,,,,Accounting,Accounting,40,,,,,,,,,,3,5,,,,,,2
+80828,SV,80828GEDP,2016-03-02,RV,1946-09-26,69,2,2,1,,2,,,,,,Office Manage,"Personnel, Staff Support",20,2,,,,,,Executive,Management,40,12,6,,,7,"MA, Fuller Theological Seminary",,2
+80837,SV,80837SCHP,2016-03-08,RV,1927-07-16,88,2,2,1,,2,,,,,,Psychiatric social work,Mostly individual sessions with patients,50,2,,,,,,Psychiatric social worker,Psychotherapy,50,6,7,"BA, MSW",,7,"BA, MSW",,2
+80843,SV,80843DIED,2016-03-21,JL,1951-01-14,65,1,2,1,,1,,Standardized patient,Clinical skills exam patient,20,2,District manager,Insurance,14,1,,School administrator,President and CEO,60,41,,,,11,7,MBA from USC,,7,2 Masters (Education and Administration),,2
+80848,SV,80848THER,2016-03-09,rv,1956-09-20,59,1,2,1,,1,,Sales associate,Customer sales,11,0.154,Telecommunications Technical Support,Technical support for telecommunications network,37,1,,RN,Clinical nurse,13,10,,,,8,5,,,5,,,2
+80849,SV,80849BAIL,2016-03-09,EB,1954-03-10,61,2,2,6,White/Hispanic/Native American,1,,Registered nurse,Clinical nurse,13,10,,,,1,,Sales associate,Customer sales,11,0.154,Telecommunications technical support,Technical support for telecommunications network,37,8,5,,,5,,,2
+80850,SV,80850SCOS,2016-02-18,EB,1958-09-09,57,2,2,1,,1,,Realtor - Investor,Real Estate,-99,27,,,,1,,Teamster,Transportation,35,13,,,,11,5,,,5,,,2
+80853,SV,80853BENV,2016-03-11,JL,1958-01-21,58,2,2,1,,1,,Alumni Relations,Fundraising,40,9,,,,1,,Brand Strategist,Independent consulting,25,40,,,,11,6,,,6,,,2
+80854,SV,80854BENB,2016-03-11,EB,1951-01-05,65,1,2,1,,1,,Consultant,Analysis,30,43,,,,1,,Fundraiser,Alumni Relations,40,9,,,,11,6,,,6,,,2
+80864,SV,80864HANC,2016-03-21,LW,1954-09-26,61,2,5,1,,2,,,,,,Input Operator,Input data into the company's database,20,5,Deceased,,,,,School bus driver,Driving a school bus,25,1,5,,,2,,,2
+80865,SV,80865PACJ,2016-03-04,RV,1960-06-09,55,1,4,3,,1,,Sales manager,Seafood distribution,35,25,,,,,,,,,,,,,7,7,MBA,,,,,2
+80872,SV,80872GAYK,2016-03-14,RV,1954-10-28,61,1,2,1,,1,,Public Relations Professional,Public relations,50,35,,,,1,,Public Relations Professional,Public relations,50,35,,,,11,6,,,6,,,2
+80877,SV,80877ANGJ,2016-03-03,EB,1948-03-19,67,1,2,4,,2,,,,,,"Importer, distributor of children's toys and novelties",Exec.,30,1,,"Professional pianist, performer, teacher",Piano,14,-99,,,,3,7,NA,,7,NA,,2
+80885,SV,80885GABF,2016-03-17,JL,1958-06-07,57,1,4,1,,1,,CPA,CPA,-99,35,,,,,,,,,,,,,2,7,"MBA, Masters in  Economics",,,,,2
+80886,SV,80886BRUR,2016-03-17,RV,1943-05-05,72,1,4,1,,2,,,,,,Aerospace Industry / Hospitality Industry,"Electronics/computers, night auditor",50,,,,,,,,,,3,7,MA religion and bible,,,,,2
+80887,SV,80887PETC,2016-03-17,EB,1958-01-22,58,2,2,2,,4,,,,,,Financial manager,Finance,25,1,,Lawyer,,40,38,,,,11,7,BA & MBA,,7,JD,,2
+80891,SV,80891SHAC,2016-03-23,RV,1951-08-10,64,2,4,1,,3,,,,,,Certified Nursing Assistant (CNA),Home Health Nurse,2,,,,,,,,,,1,5,,,,,,2
+80900,SV,80900VONW,2016-03-24,RV,1937-02-13,79,1,5,1,,2,,,,,,Business Management,Office/field work,20,,,,,,,,,,1,7,"BS Chemistry, MS Psychology",,,,,2
+80915,SV,80915SUNC,2016-04-22,JL,1953-01-28,63,2,1,4,,2,,,,,,Optometrist,Eye Examination & RX Glasses,20,,,,,,,,,,4,7,O.D.,,,,,2
+80919,SV,80919CARA,2016-04-15,RV,1953-01-18,63,1,2,1,,1,,Quality Manager/Office Manager,Overseer Quality Mgmt. & Office Personnel & Operations,45,28,,,,1,,BookKeeper,Accounts Payable,40,12,,,,11,7,MBA,,5,,,2
+80929,SV,80929CARP,2016-06-15,RV,1961-02-13,55,1,2,1,,1,,Teacher,Teach,40,28,,,,1,,Dental assistant,Dental assisting,45,18,,,,11,7,MA English Lit.,,7,DDS,,2
+80936,SV,80936KUYD,2016-04-25,JL,1949-06-06,66,1,2,1,,1,,Air Traffic Controller,Separate / Sequence Aircraft,40,28,,,,5,Housewife,,,,,-99,-99,-99,11,6,,,3,,,2
+80942,SV,80942MONV,2016-04-27,EB,1948-10-01,67,2,2,3,,2,,,,,,Educator - Administrator,Education,38,2,,,,,,Accountant,School accounting,12,11,7,"BA, MA",,6,,,2
+80943,SV,80943WHIG,2016-05-18,EB,1946-11-02,69,1,2,1,,2,,,,,,Radiology sales Business,Sold radiology products,41,1,,Mammography X-ray tech,X-rays,16,43,,,,7,5,,,5,,,2
+80944,SV,80944ARMJ,2016-04-29,EB,1947-08-25,68,1,2,1,,1,,Adult Ed Instructor,Teach Adults,12,8,Management,,25,1,,Self employed,,20,20,Interpreter,,15,11,6,,,5,,,2
+80946,SV,80946WARA,2016-05-02,EB,1941-03-04,75,2,1,6,European / Jewish,2,,,,,,Counseling,Psychotherapy,25,,,,,,,,,,2,7,Psy D,,,,,2
+80955,SV,80955MCRD,2016-06-09,EB,1953-10-11,62,1,2,1,,1,,Graphic designer,Create print & web layouts for an ad agency,25,40,,,,1,,Clinical psychologist,Runs a chronic pain clinic for Kaiser,40,15,,,,11,7,"BS, MA",,7,"BA, MA, MS, PhD",,2
+80956,SV,80956GRAH,2016-06-03,RV,1941-12-05,74,1,2,1,,2,,,,,,Insurance,Investigator,30,2,,,,,,Insurance,Executive support,26,7,5,,,3,,,2
+80957,SV,80957URAS,2016-04-29,JL,1941-02-15,75,2,4,4,,2,,,,,,Office/accounting assistant,White collar,20,,,,,,,,,,2,3,,,,,,2
+80958,SV,80958CARM,2016-05-03,EB,1944-06-19,71,2,2,1,,1,,Wellness Consultant & Office Manager,"Mostly sedentary - counseling, integration",30,8,"Manager, field rep","Office, property mgmt, employment develop",9,1,,Electronics engineer,Design heavy duty power supplies,37.5,18,,,,11,7,Master of international management,,4,,,2
+80959,SV,80959CABM,2016-05-04,EB,1954-09-20,62,1,1,3,,4,,,,,,Cable installer - Telecom,Physical activity installing cabling in buildings,17,,,,,,,,,,3,4,,,,,,2
+80960,SV,80960LORD,2016-05-06,RV,1942-10-08,73,2,2,1,,2,,,,,,Education,Teaching / administration,43,1,,Minister,Pastoral,15,40,,,,10,7,MA,,7,Phd,,2
+80961,SV,80961LORA,2016-05-06,JL,1940-04-23,76,1,2,1,,1,,Minister,Minister spiritually to people,40,50,,,,2,,,,,,"Teacher, educaor, principal",Teaching,43,10,7,"BA, MA, M.Div, D.Div Phd",,7,"BA, MA",,2
+80962,SV,80962SURJ,2016-05-24,JL,1945-08-19,70,2,4,4,,2,,,,,,Clerical & Admin Assistant,Clerical,25,,,,,,,,,,4,5,,,,,,2
+80963,SV,80963CHUC,2016-05-18,RV,1959-05-23,57,2,5,4,,2,,,,,,Engineer,Aerospace,29,2,,,,,,Engineer,Aerospace,30,12,7,MA mathematics,,7,PhD Chemistry,,2
+80964,SV,80964ORRS,2016-05-09,RV,1938-08-19,77,2,3,1,,2,,,,,,Adm Asst Cardiology Dept,Adm Asst to Dr. Singh/Managing Editor of a Journal of Cardiology,15,2,,,,,,Public Relations,Partner of a PR firm,-99,11,6,,,6,,,2
+80965,SV,80965CRIS,2016-05-04,RV,1957-02-22,59,1,2,1,,1,,Photographer,Make photographs,40,38,,,,1,,Legal assistant,Legal assistant,40,10,,,,11,5,,,6,,,2
+80966,SV,80966PENM,2016-05-05,EB,1956-10-26,59,1,1,1,,1,,Chiropractor,,38,30,,,,,,,,,,,,,7,7,"MS, DC",,,,,2
+80967,SV,80967AKIK,2016-05-10,EB,1941-08-04,74,2,2,4,,2,,,,,,Accounting,Accounting,15,2,,,,,,Repairs (indoor wires),AT&T,20,5,5,,,5,,,2
+80968,SV,80968LOWM,2016-05-25,RV,1939-06-20,76,2,4,1,,2,,,,,,RN & Case management/ therapist,Nursing & therapist,42,,,,,,,,,,5,7,"RN, BA, MA",,,,,2
+80969,SV,80969PUOA,2016-05-31,RV,1952-09-15,63,2,2,3,,1,,Pediatric Occupational Therapist,"Ped. Assessment, NICU",60,30,,,,2,,,,,,Newspaper production/distribution,Production/distribution,35,11,6,,,5,,,2
+80970,SV,80970REYJ,2016-05-26,EB,1942-12-28,73,2,4,1,,2,,,,,,Public Health Nursing Supervisor,Public Health,30,,,,,,,,,,4,7,MS nursing,,,,,2
+80971,SV,80971THOP,2016-05-20,RV,1939-06-23,76,2,4,1,,2,,,,,,Mathematician,Math in aerospace & business,50,,,,,,,,,,12,7,"MA mathematics, MBA (business)",,,,,2
+80972,SV,80972DORM,2016-05-27,EB,1954-05-12,62,1,2,1,,1,,Commercial Real Estate Mortgage Banker,Mortgage banking,50,30,,,,1,,Executive Search Recruiter,Recruiter,60,2,,,,10,6,,,6,,,2
+80975,SV,80975BROJ,2016-05-17,EB,1957-02-11,59,1,1,1,,1,,Book appraiser,Appraise books,22.5,10,,,,,,,,,,,,,2,6,,,,,,2
+80976,SV,80976SHED,2016-05-11,JL,1952-12-17,63,1,2,1,,2,,,,,,Regional Sales Manager,Technical sales to aerospace industry,33,1,,Case manager,Provide help to senior citizens,37.5,20,,,,9,6,,,7,Masters,,2
+80977,SV,80977HERA,2016-05-12,EB,1944-10-10,71,1,2,3,,2,,,,,,Blood donor recruiter,Blood donation,7,1,,Lab assistance,Phlebotomy,40,20,,,,8,1,,,3,,,2
+80978,SV,80978MCQT,2016-05-23,EB,1955-11-18,60,1,4,1,,4,,,,,,Higher Ed. Admin,Management,11,,,,,,,,,,1,7,"PhD, MCIS, BA, AA",,,,,2
+80979,SV,80979SANG,2016-05-25,EB,1943-11-02,72,2,5,2,,2,,,,,,Educator,Teaching - Secondary,32,,,,,,,,,,8,7,MA,,,,,2
+80980,SV,80980NIEM,2016-06-09,JL,1940-10-24,75,2,2,1,,2,,,,,,"Homemaker, laboratory assist.","Microbiology, food quality control",6,2,,,,,,"Coast Guard officer, Engineer","Coast Guard officer 28 yrs, engineering manager 14 yrs",42,10,7,MS,,7,MS Naval architecture & marine engineering,,2
+80981,SV,80981OSHA,2016-06-17,RV,1952-12-28,63,1,2,4,,2,,,,,,Lawyer,Legal,34,2,,,,,,Clerk,Clerk,15,4,7,JD,,6,,,2
+80996,SV,80996SCHL,2016-05-26,RV,1960-09-20,55,2,2,1,,1,,Self employed grant writer,Grant writing,25,15,,,,1,,Lecturer,College lecturer,25,20,,,,11,7,"Master Rel. Education, Master Adult Education",,7,PhD Community Psychology,,2
+80999,SV,80999SANS,2016-05-02,JL,1944-07-11,71,1,5,1,,1,,Principal in loan business,Lending,20,18,,,,,,,,,,,,,12,7,MBA,,,,,2
+81037,SV,81037COMD,2016-06-02,RV,1934-02-24,82,1,2,1,,2,,,,,,Carpenter,Building homes,54,2,,,,,,Clerk,Clerical,31,6,4,,,6,,,2
+81051,SV,81051GOOM,2016-05-11,RV,1937-01-18,79,2,5,1,,2,,,,,,Administrator,Manage private medical practive,25,,,,,,,,,,4,7,MSW,,,,,2
+81061,SV,81061BALK,2016-06-06,RV,1934-02-13,82,1,2,1,,1,,Special Inspector,Inspect Construction,35,37,,,,1,,Self employed - restaurant owner,Owns a Thai restaurant,40,4,,,,11,6,,,3,,,2
+81062,SV,81062GOON,2016-06-06,JL,1950-04-16,66,2,5,1,,2,,,,,,Manufacturer Rep,Sales,6,,,,,,,,,,5,6,,,,,,2
+81063,SV,81063LUGF,2016-05-09,EB,1947-03-21,69,2,5,1,,1,,Realtor,Sales-homes,25,34,,,,,,,,,,,,,8,6,,,,,,2
+81065,SV,81065MUEV,2016-06-20,RV,1945-03-18,71,2,2,1,,2,,,,,,Physician,General psychiatry,42,2,,,,,,Physician,"Biochemistry, Pathology, Administration",40,11,7,MD,,7,"MD, PhD",,2
+81066,SV,81066TOMD,2016-06-08,EB,1952-10-16,63,2,2,1,,2,,,,,,Staff accountant,"Bookkeeping, financial analysis",5,1,,"Manager, Project controls",Manage analysts forecasting & controls for projects,50,8,,,,11,7,Master Divinity,,7,Master Business Economics,,2
+81067,SV,81067FLEL,2016-06-09,RV,1950-04-15,66,2,4,1,,1,,Registered Nurse,Staff nurse,36,25,,,,,,,,,,,,,11,5,,,,,,2
+81068,SV,81068SCHS,2016-06-10,RV,1960-12-08,55,2,2,1,,1,,Nonprofit program director,"Plan & deliver informational programs, communications",20,8,,,,1,,Scientist,Studies Earth's atmosphere (for JPL),40,17,,,,11,7,MA public policy and writing,,7,PhD in Physics,,2
+81070,SV,81070BOLJ,2016-05-16,EB,1960-03-19,56,2,2,1,,1,,CPA,Audit,50,26,,,,2,,,,,,Government auditor,Inspector general's office,40,8,7,MBA,,6,,,2
+81071,SV,81071MICJ,2016-06-07,EB,1957-01-10,59,1,2,1,,2,,,,,,Engineer,Engineering,35,4,,,,,,Teacher,Teaching,-99,6,6,,,6,,,2
+81072,SV,81072WELS,2016-06-08,EB,1942-05-08,74,2,2,1,,2,,,,,,Homemaker,Homemaker,25,2,,,,,,Engineer,Fabrication/ repair work/ port work,35,11,6,,,6,,,2
+81077,SV,81077ASMG,2016-06-10,EB,1950-03-23,66,1,4,1,,2,,,,,,Pastry chef / sales,Food service,50,,,,,,,,,,11,4,,,,,,2
+81085,SV,81085CONR,2016-06-13,RV,1951-07-06,64,2,4,3,,2,,,,,,Registered Nurse,Direct patient care / public health,40,,,,,,,,,,10,6,,,,,,2
+81095,SV,81095HERR,2016-05-20,EB,1948-08-22,67,1,4,3,,2,,,,,,Supply chain manager,Ice Cream Mfg.,17,,,,,,,,,,3,6,,,,,,2
+81110,SV,81110WHIL,2016-07-08,RV,1950-01-03,66,1,2,1,,2,,,,,,Retail management,Retail management,40,2,,,,,,School teacher,Elementary school teacher,39,11,7,MBA,,7,Masters Education,,2
+81127,SV,81127DIAE,2016-06-16,RV,1961-05-24,55,1,2,3,,1,,Chief administrative officer OBGYN,Administration,50,13,,,,4,,,,,,Housewife,House work,10,11,7,MBA,,3,,,2
+81129,SV,81129GOME,2016-06-13,JL,1959-02-17,57,2,2,3,,5,,,,,,Stay at home wife,-99,-99,1,,Factory,Storage,40,0.25,,,,2,1,,,1,,,2
+81130,SV,81130MADC,2016-06-15,EB,1949-08-29,66,2,5,3,,2,,,,,,Attorney,Law,25,,,,,,,,,,6,7,JD,,,,,2
+81150,SV,81150MACD,2016-06-21,RV,1946-03-23,70,1,2,1,,2,,,,,,"Lab tech, manager","Lots of walking on campus & lab work, standing, moving equip",43,2,,,,,,"Varied. Office, teach","teach swimming, weightlifting, etc",-99,5,6,,,6,,,2
+81151,SV,81151COUL,2016-07-08,JL,1959-11-11,56,2,2,2,,4,,,,,,LVN,Nursing,10,2,,,,,,US Army,,34,7,6,,,5,,,2
