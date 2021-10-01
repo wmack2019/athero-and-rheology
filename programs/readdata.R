@@ -4,3 +4,5 @@ demo<-read.cvs("d:/my work/naps/analysis subprojects/athero and rheology/data/pe
 head(demo)
 #   add for branch example
 maxage<-max(demo$age)
+minage<-min(demo$age)
+
